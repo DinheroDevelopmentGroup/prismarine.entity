@@ -1,0 +1,16 @@
+{
+  "name": "prismarine.entity",
+  "author": "Dinhero Development Group",
+  "license": "MIT",
+  "description": "prismarine-entity wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "prismarine-entity": "^2.4.0"
+  }
+}
