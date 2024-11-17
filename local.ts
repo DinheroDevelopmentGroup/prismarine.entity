@@ -10,3 +10,5 @@ export const Entity: typeof TEntity = (
     registryOrVersion: typeof registry | string,
   ) => typeof TEntity
 )(registry);
+
+export default Entity;
